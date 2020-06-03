@@ -5,4 +5,4 @@ Al pasar de pantalla encontramos las paginas internas y de utilizacion de UST.
 Kubera,Outlook y Teams, aplicaciones mas usadas de ust, al pulsar en ellas abre los enlaces correspondientes.
 En esa misma pantalla esta el boton de beneficios sociales.
 En beneficios sociales aparecen los enlaces a las empresas que tienen convenio con UST.
-En todas las pantallas esta tambien el regresar a la pagina anterior.
+En todas las pantallas se puede regresar a la pagina anterior.
