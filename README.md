@@ -15,4 +15,4 @@ Tutorial:
 ·En todas las pantallas se puede regresar a la pagina anterior.
 
 
-Enlace video:
+Enlace video:https://youtu.be/IvWQruYXm50
